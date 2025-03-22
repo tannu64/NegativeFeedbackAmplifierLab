@@ -28,5 +28,3 @@ The laboratory involves:
 ## Results
 The experiment demonstrates how negative feedback effectively modifies amplifier characteristics, improving performance in terms of stability and linearity.
 
-## Circuit Diagram
-![Circuit Diagram](assets/circuit_diagram.png) *(Note: Image placeholder)* 
